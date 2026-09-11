@@ -1,0 +1,12 @@
+# 백업본 — 올리지 않는다
+*.bak_*
+*.bak
+assets/*.bak*
+
+# 내부 검토용 화면 — 밖으로 나가면 안 된다
+review.html
+_about_decisions.html
+_prize_variants.html
+README_배포안내.md
+
+.DS_Store

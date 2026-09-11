@@ -1,0 +1,38 @@
+{
+ "viewBox": [
+  0,
+  0,
+  1400,
+  1000
+ ],
+ "labels": [
+  {
+   "name": "peel",
+   "text": "두꺼운 껍질과 기름샘",
+   "x": 1090,
+   "y": 210,
+   "anchor": "start"
+  },
+  {
+   "name": "pith",
+   "text": "넓은 흰 속껍질",
+   "x": 1090,
+   "y": 560,
+   "anchor": "start"
+  },
+  {
+   "name": "flesh",
+   "text": "10조각 과육",
+   "x": 310,
+   "y": 830,
+   "anchor": "end"
+  },
+  {
+   "name": "seed",
+   "text": "씨 15~20개",
+   "x": 310,
+   "y": 240,
+   "anchor": "end"
+  }
+ ]
+}

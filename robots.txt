@@ -1,0 +1,4 @@
+# 2026-09-14 공개 전까지 검색엔진 수집을 막는다.
+# 공개일에 이 파일의 Disallow 를 지우고 sitemap 을 살릴 것.
+User-agent: *
+Disallow: /
